@@ -1,0 +1,10 @@
+{
+  "name": "haha",
+  "provider": "sap",
+  "description": "hahahha",
+  "version": "0.0.1",
+  "icon": "http://img2.imgtn.bdimg.com/it/u=3909180161,1399400719&fm=26&gp=0.jpg",
+  "dockerRegistry": "kakawangsap",
+  "helmChartVersion": "0.0.1",
+  "parameters": []
+}
